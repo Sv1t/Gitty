@@ -13,6 +13,8 @@ namespace Gitty
             int stage = 22;
 
             int master = 1;
+
+            int stageNext = 3;
         }
     }
 }
